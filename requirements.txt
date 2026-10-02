@@ -1,0 +1,8 @@
+torch
+facenet-pytorch
+scikit-learn
+pillow
+numpy
+pandas
+joblib
+streamlit
